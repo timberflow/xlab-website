@@ -18,11 +18,11 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a naive developer
+bio: a green hand
 
 interests:
-- Coding
-- 
+- Reading
+- Drawing
 education:
   courses:
   - course: Data Science and Engineering
@@ -40,7 +40,7 @@ social:
   link: "253485846@qq.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com
+  link: https://github.com/timberflow/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
